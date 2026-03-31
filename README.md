@@ -23,6 +23,7 @@ Admin --> (Manage Student Records)
 (Register for Course) --> (Check Availability)
 (Register for Course) --> (Check Time Conflict)
 (Drop Course) --> (Update Enrollment)
+```
 
 ### Flowchart of the main workflow
 
