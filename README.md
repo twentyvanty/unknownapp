@@ -48,3 +48,8 @@ flowchart TD
 ```
 
 ### Prompts
+
+1. Analyze a Java enrollment system and identify its functionality
+2. Create a use case diagram for a course registration system
+3. Generate a Mermaid flowchart for a CLI-based menu system
+4. Convert Java enrollment logic into Python code
