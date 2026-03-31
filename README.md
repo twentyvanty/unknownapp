@@ -1,6 +1,8 @@
 # Unknown App Reengineering
 
-## 3. Use Case Diagram
+### Use Case Diagram
+
+<img width="927" height="858" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/e83644db-9482-40ea-94bf-5c76f4aa0b28" />
 
 
 ### Flowchart of the main workflow
