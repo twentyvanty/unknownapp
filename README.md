@@ -43,6 +43,6 @@ flowchart TD
     Q --> M
 
     F --> R[End]
-    ```
+```
 
 ### Prompts
